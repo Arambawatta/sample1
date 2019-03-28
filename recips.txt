@@ -2,3 +2,4 @@ welcome
 rice
 cake
 tomato
+potato fries
